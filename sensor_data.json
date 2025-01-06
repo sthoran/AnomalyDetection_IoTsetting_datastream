@@ -1,0 +1,32 @@
+[
+    {
+        "temperature": 6.86,
+        "humidity": 73.04,
+        "sound_volume": 93,
+        "timestamp": 1611784629
+    },
+    {
+        "temperature": 55.22,
+        "humidity": 41.88,
+        "sound_volume": 110,
+        "timestamp": 1625975768
+    },
+    {
+        "temperature": -23.02,
+        "humidity": 78.81,
+        "sound_volume": 93,
+        "timestamp": 1629899132
+    },
+    {
+        "temperature": 19.63,
+        "humidity": 76.95,
+        "sound_volume": 108,
+        "timestamp": 1604708434
+    },
+    {
+        "temperature": 16.84,
+        "humidity": 78.88,
+        "sound_volume": 87,
+        "timestamp": 1612770648
+    }
+]
